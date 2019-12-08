@@ -1,5 +1,5 @@
-import id from "../credential";
-import client_secret from "../credentials";
+import id from "../../app/credential";
+import client_secret from "../../app/credential";
 
 const params = `?client_id=${id}&client_secret=${client_secret}`;
 
