@@ -1,0 +1,30 @@
+.instruction-grid {
+  display: flex;
+  margin: 25px;
+  width: 100%;
+}
+
+.instruction-grid li {
+  flex: 1;
+}
+
+.instruction-grid svg {
+  padding: 75px;
+}
+
+.instruction-grid h2 {
+  text-align: center;
+  padding: 20px;
+  margin-right: 35px;
+}
+
+.center-text {
+  text-align: center;
+  padding: 20px;
+  margin-left: 100px;
+}
+
+.space-around {
+  display: flex;
+  justify-content: space-around;
+}
