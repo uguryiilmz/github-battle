@@ -20,7 +20,7 @@ export default function Instructions(props) {
               />
             </li>
             <li>
-              <h2>Battle</h2>
+              <h2>FIIIIGHT</h2>
               <FaFighterJet
                 className={`bg-${theme}`}
                 color="rgb(224, 224, 224)"
